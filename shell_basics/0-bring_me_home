@@ -1,2 +1,2 @@
-#!/bin/bash chmod u+r+x
+#!/bin/bash chmod u+x 0-bring_me_home
 cd ~
