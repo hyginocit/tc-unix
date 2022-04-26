@@ -1,2 +1,2 @@
-#!/bin/bash cd ~
+#!/bin/bash #atividade_0 cd ~
 chmod u+r+x 0-bring_me_home
