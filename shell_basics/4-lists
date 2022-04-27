@@ -1,6 +1,3 @@
 #!/bin/bash
-ls -a -l
-cd ..
-ls -a -l
-cd ~
-ls -a -l
+ls -a -l && cd .. && ls -a -l && cd ~ && ls -a -l
+
