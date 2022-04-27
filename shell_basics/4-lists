@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lang  cd ..  ls -lang  cd ~  ls -lang
+ls -l -a -h  cd ..  ls -l -a -h  cd ~  ls -l -a -h
