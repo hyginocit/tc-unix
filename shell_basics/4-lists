@@ -1,3 +1,2 @@
-#!/bin/bash
-ls -a -l && cd .. && ls -a -l && cd ~ && ls -a -l
-
+#!/bin/bash 
+ls -al -la . -la .. /boot
