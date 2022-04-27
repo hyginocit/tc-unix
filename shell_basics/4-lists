@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l -a -h  cd ..  ls -l -a -h  cd ~  ls -l -a -h
+ls -l -a -h  cd ..  ls -l -a -h  cd ~/../.. cd /root ls -l -a -h
